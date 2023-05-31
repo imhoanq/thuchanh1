@@ -1,0 +1,113 @@
+.logo-menu {
+    margin-top: -10px;
+    width: 100%;
+}
+header .menu{
+    padding: 0px 100px;
+    margin-top: -32px;
+
+}
+.img-respontive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+header ul.menu a {
+    padding: 12px 20px;
+    border-right: 1px solid #fff;
+    margin-right: 32px;
+    text-decoration: black;
+    font-size: 16px ; color: black;
+}
+.menu {
+    text-align: right;
+}
+.danhmuc {
+    display: flex;
+    justify-content: center;
+    margin-top: 4px;
+    width: 880px;
+    margin-inline: auto;
+}
+.danhmuc .items {
+    position:relative;
+ 
+} 
+.danhmuc .items p{
+    text-align: center;
+    margin-top: -40px;
+    
+}
+.items {
+   display: block;  
+   margin-left: auto; 
+   margin-right: auto;
+}
+.vecongty {
+    font-size: 20px; color: black;
+    margin-left: 280px;
+    margin-top: 25px;
+}
+.anhcongty .item    {
+    border: solid 1px red;
+    height: 100px;
+    width: 100px;
+    display: flex;
+}
+.shar-room .item img {
+    height: 225px;
+    width: 100%;
+    
+}
+.shar-room {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 15px;
+}
+.shar-room .item p {
+    font-size: 16px;
+    text-align: center;
+    margin-top: -47px;
+    font-size: 16px ; color: white;
+    display: block;
+    
+}
+.support {
+    border: solid 1px white;
+    width: 100%;
+    height: 200px;
+    background: yellow;
+    margin-top: 50px;
+}
+.support .test1 b {
+    display: grid;
+    margin-left: 290px;
+    margin-top: 27px;
+    line-height: 0px;
+    text-decoration: none !important;
+    font-size: 16px;
+    color: black;
+}
+.support .test2  {
+    max-width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content:right;
+    margin-top: -145px;
+    margin-left: 577px;
+    line-height: 23px;
+    
+}
+.support .test3  {
+    max-width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: -89px;
+    float: right;
+    margin-right: 200px;
+    line-height: 20px;
+}
+
+
